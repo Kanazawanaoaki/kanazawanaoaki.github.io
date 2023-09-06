@@ -1,25 +1,21 @@
-# +theme = "hugo-coder"
-# baseURL = 'https://example.org/'
-# languageCode = 'en-us'
-# title = 'My New Hugo Site'
-
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "Naoaki Kanazawa"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 paginate = 20
+enableEmoji = true
 
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  author = "Naoaki Kanazawa"
+  info = "Ph.D Student at JSK Robotics Lab, The University of Tokyo"
+  description = "Naoaki Kanazawa's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -28,7 +24,7 @@ style = "github-dark"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2023
 
   enableTwemoji = true
 
@@ -50,7 +46,7 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/Kanazawanaoaki/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
@@ -64,10 +60,10 @@ style = "github-dark"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
   name = "About"
-  weight = 2
+  weight = 1
   url = "about/"
+[[menu.main]]
+  name = "Publications"
+  weight = 2
+  url  = "publications/"
