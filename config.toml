@@ -17,8 +17,7 @@ author = "Naoaki Kanazawa"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Naoaki Kanazawa's personal website"
 keywords = "blog,developer,personal"
-info = ["Ph.D. Student at JSK Robotics Lab", "The University of Tokyo"]
-# avatarURL = "images/avatar.jpg"
+info = ["Ph.D. Student at JSK Robotics Laboratory", "The University of Tokyo"]
 avatarURL = "images/my_photo.jpeg"
 #gravatar = "john.doe@example.com"
 dateFormat = "August 2, 2023"
