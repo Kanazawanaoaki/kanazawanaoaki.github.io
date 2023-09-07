@@ -10,7 +10,9 @@ author = "Naoaki Kanazawa"
 
 ![my_photo.jpeg](../images/my_photo.jpeg)
 
-I am a Ph.D. student in [JSK Robotics Laboratory](http://www.jsk.t.u-tokyo.ac.jp/ ) (Prof. Masayuki Inaba and Kei Okada) at The University of Tokyo. My research interests are mainly in cooking robots, life support robots, recognition , manipulation, and planning.
+I am a Ph.D. student in [JSK Robotics Laboratory](http://www.jsk.t.u-tokyo.ac.jp/ ) (Prof. Masayuki Inaba and Kei Okada) at The University of Tokyo.
+
+To realize robots that can support people's daily life, I am doing research on life support robots, mainly on recognition, manipulation, planning, and learning for cooking robots.
 
 ### Career
 * Ph.D. in Mechano-Informatics, 2023- (Graduate School of Information Science and Technology, The University of Tokyo)
