@@ -62,6 +62,9 @@ Parametric Biasを用いた調理ロボットの包丁切断操作における�
 テンプレートマッチング認識とプリミティブ動作により状態を考慮した家電操作を行うロボットシステム, in 第22回SICEシステムインテグレーション部門講演会講演概要集 (SI21J), 1G2-02, 2021. **優秀講演賞**
 12. **金沢 直晃**, 岡田 慧, 稲葉 雅幸.
 台車移動型双腕ロボットによるカレー調理行動実行システム, in 第39回日本ロボット学会学術講演会講演論文集 (RSJ21J), 2H3-05, 2021.
+13. **金沢 直晃**, 北川 晋吾, 室岡 貴之, 岡田 慧, 稲葉 雅幸.
+調理道具を扱う双腕ロボットによる野菜皮剥き切断操作の認識行動実現システム,
+in 第21回SICEシステムインテグレーション部門講演会講演概要集 (SI20J), 3E2-08, 2020.
 
 ## Awards (Publication)
 1. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba.
@@ -72,6 +75,6 @@ SICE International Young Authors Award (SIYA-IROS2022), IEEE Robotics and Automa
 
 ## Awards and Experiences (Others)
 1. Team JSK: Y. Obinata, **N. Kanazawa**, S. Kim, K. Kawaharazuka, I. Yanokura, S. Kitagawa. **First Place (GPSR task in DSPL)**, RoboCup@Home JapanOpen2022, 2023.03.06-09.
-2. Group 4: 稲富翔伍, **金沢直晃**, 牧原昂志, 籾山陽紀, 渡部泰樹(五十音順). "柔軟物体操作のための世界モデルの構築と実環境への適用可能性の検証", **最優秀講演賞**, 東京大学 世界モデルと知能 最終課題発表会, 2022.05.25. [Link](https://world-model.t.u-tokyo.ac.jp/ )
+2. Team 4: 稲富翔伍, **金沢直晃**, 牧原昂志, 籾山陽紀, 渡部泰樹(五十音順). "柔軟物体操作のための世界モデルの構築と実環境への適用可能性の検証", **最優秀賞**, 東京大学 集中講義 世界モデルと知能 最終課題発表会 口頭発表, 2022.05.25. [Link](https://world-model.t.u-tokyo.ac.jp/ )
 3. SFP2019黒板消しロボットチーム, **チームラボ賞**, GUGEN2019.12.08. [Link](https://gugen.jp/result/2019.html), [Product Link](https://gugen.jp/subscriptions/work/871 )
 4. **twilio 賞**, TRUNK HACKATHON in OSAKA 2019. 2019.03.16-17.

@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://kanazawanaoaki.github.io"
 title = "Naoaki Kanazawa"
 theme = "hugo-coder"
 languageCode = "en"
@@ -13,6 +13,9 @@ enableEmoji = true
 style = "github-dark"
 
 [params]
+faviconSVG = "images/my-favicon.svg"
+favicon_16 = "images/my-favicon-16.ico"
+favicon_32 = "images/my-favicon-32.ico"
 author = "Naoaki Kanazawa"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Naoaki Kanazawa's personal website"
