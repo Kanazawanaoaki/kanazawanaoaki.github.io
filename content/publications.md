@@ -68,10 +68,10 @@ in 第21回SICEシステムインテグレーション部門講演会講演概�
 
 ## Awards (Publication)
 1. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba.
-SICE International Young Authors Award (SIYA-IROS2022), IEEE Robotics and Automation Letters (RAL), 2022.10.26.
+**SICE International Young Authors Award (SIYA-IROS2022)**, IEEE Robotics and Automation Letters (RAL), 2022.10.26.
 
 2. **金沢 直晃**, 北川 晋吾, 室岡 貴之, 岡田 慧, 稲葉 雅幸.
-優秀講演賞, 第22回 計測自動制御学会 システムインテグレーション部門講演会 (SI2021)  2021.12.24.
+**優秀講演賞**, 第22回 計測自動制御学会 システムインテグレーション部門講演会 (SI2021)  2021.12.24.
 
 ## Awards and Experiences (Others)
 1. Team JSK: Y. Obinata, **N. Kanazawa**, S. Kim, K. Kawaharazuka, I. Yanokura, S. Kitagawa. **First Place (GPSR task in DSPL)**, RoboCup@Home JapanOpen2022, 2023.03.06-09.
