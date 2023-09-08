@@ -9,8 +9,8 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
-# noClasses = false
-style = "github-dark"
+noClasses = false
+# style = "github-dark"
 
 [params]
 faviconSVG = "images/my-favicon.svg"
@@ -23,7 +23,7 @@ keywords = "blog,developer,personal"
 info = ["Ph.D. Student at JSK Robotics Laboratory", "The University of Tokyo"]
 avatarURL = "images/my_photo.jpeg"
 #gravatar = "john.doe@example.com"
-dateFormat = "August 2, 2023"
+dateFormat = "January 2, 2006"
 since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -139,7 +139,7 @@ weight = 2
 url = "https://twitter.com/Naoaki_Kanazawa"
 
 [[params.social]]
-name = "LinkedIn"
+name = "Google Scholar"
 icon = "fa fa-2x fa-graduation-cap"
 weight = 3
 url = "https://scholar.google.co.jp/citations?user=WCjv9PcAAAAJ"
@@ -178,10 +178,10 @@ name = "Publications"
 weight = 2
 url = "publications/"
 
-# [[languages.en.menu.main]]
-# name = "Posts"
-# weight = 3
-# url = "posts/"
+[[languages.en.menu.main]]
+name = "Posts"
+weight = 3
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
@@ -210,10 +210,10 @@ name = "成果"
 weight = 2
 url = "publications/"
 
-# [[languages.ja.menu.main]]
-# name = "投稿"
-# weight = 3
-# url = "posts/"
+[[languages.ja.menu.main]]
+name = "投稿"
+weight = 3
+url = "posts/"
 
 [[languages.ja.menu.main]]
 name = "連絡先"
