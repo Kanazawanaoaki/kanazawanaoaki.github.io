@@ -30,7 +30,7 @@ languageCode = "ja"
 1. K. Kawaharazuka, **N. Kanazawa**, Y. Obinata, K. Okada, M. Inaba.
 "Daily Assistive View Control Learning of Low-Cost Low-Rigidity Robot via Large-Scale Vision-Language Model" (in press), in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), 2023.
 
-1. Y. Obinata, K. Kawaharazuka, N. Kanazawa, N. Yamaguchi, N. Tsukamoto, I. Yanokura, S. Kitagawa, K. Shinjo, K. Okada, M. Inaba.
+1. Y. Obinata, K. Kawaharazuka, **N. Kanazawa**, N. Yamaguchi, N. Tsukamoto, I. Yanokura, S. Kitagawa, K. Shinjo, K. Okada, M. Inaba.
 "Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots Using Pre-Trained Large-Scale Vision-Language Model" (in press), in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2023), 2023. **IEEE RAS Japan Joint Chapter Young Award (2023)**, **SICE International Young Authors Award (SIYA-IROS2023)** [Arxiv Link](https://arxiv.org/abs/2309.16552 )
 
 1. **N. Kanazawa**, K. Kawaharazuka, Y. Obinata, K. Okada, M. Inaba.
