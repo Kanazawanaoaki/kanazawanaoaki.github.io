@@ -4,25 +4,32 @@ slug = "publications"
 languageCode = "ja"
 +++
 
-## Under Review
-1. Open X-Embodiment Collaboration, "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", 2023. [Arxiv Link](https://arxiv.org/abs/2310.08864 ) [Project Page](https://robotics-transformer-x.github.io/ )
-
-1. Y. Obinata, **N. Kanazawa**, K. Kawaharazuka, I. Yanokura, S. Kim, K. Okada, M. Inaba.
-"Foundation Model based Open Vocabulary Task Planning and Executive System for General Purpose Service Robots", arXiv preprint arXiv:2308.03357, 2023. [Arxiv Link](https://arxiv.org/abs/2308.03357 ) [Video](https://www.youtube.com/watch?app=desktop&v=fiN4Zibk6Sg )
-
 ## International Journal Papers
 
-1. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba. "Self-Supervised Learning of Visual Servoing for Low-Rigidity Robots Considering Temporal Body Changes", IEEE Robotics and Automation Letters (RAL), vol. 7, no. 3, pp. 7881-7887, 2022. **SICE International Young Authors Award (SIYA-IROS2022)**, (presented at IROS2022), [Paper Link](https://ieeexplore.ieee.org/document/9806167/ )
+1. **N. Kanazawa**, K. Kawaharazuka, Y. Obinata, K. Okada, M. Inaba.
+"Real-world cooking robot system from recipes based on food state recognition using foundation models and PDDL", Advanced Robotics (AR), pp.1-17, 2024.
 
-## Domestic Journal Papers
+1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada, M. Inaba.
+"Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models", Advanced Robotics (AR), pp.1-12, 2024.
 
-1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 岡田 慧, 稲葉 雅幸.
-大規模視覚-言語モデルと遺伝的アルゴリズムに基づくロボットのための状態認識 (in press), 日本ロボット学会誌 (JRSJ), 2023. [Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-04.html )
+1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
+"Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization", Advanced Robotics (AR), pp.1-10, 2024.
 
-2. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
-料理レシピ記述解析と視覚 - 言語モデルの時系列利用による食材状態変化認識に基づくロボットの調理作業実行 (in press), 日本ロボット学会誌 (JRSJ), 2023. [Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-05.html )
+1. K. Kawaharazuka, **N. Kanazawa**, Y. Obinata, K. Okada, M. Inaba
+"Continuous Object State Recognition for Cooking Robots Using Pre-Trained Vision-Language Models and Black-box Optimization", IEEE Robotics and Automation Letters (RAL), vol.9, no.5, pp.4059-4066, 2024. (presented at Humanoids2024)
+
+1. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba. "Self-Supervised Learning of Visual Servoing for Low-Rigidity Robots Considering Temporal Body Changes", IEEE Robotics and Automation Letters (RAL), vol.7, no.3, pp.7881-7887, 2022. **SICE International Young Authors Award (SIYA-IROS2022)**, (presented at IROS2022), [Paper Link](https://ieeexplore.ieee.org/document/9806167/ )
 
 ## International Conference Proceedings (Peer Reviewed)
+
+1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
+"Robotic State Recognition with Image-to-Text Retrieval Task of Pre-Trained Vision-Language Model and Black-Box Optimization", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2024), 2024.
+
+1. Y. Obinata, H. Jia, K. Kawaharazuka, **N. Kanazawa**, K. Okada
+"Remote Life Support Robot Interface System for Global Task Planning and Local Action Expansion Using Foundation Models", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2024), 2024.
+
+1. Open X-Embodiment Collaboration.
+Open X-Embodiment: Robotic Learning Datasets and RT-X Models, in Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024. **Best Conference Paper Award**, **Finalists of Best Paper Award in Robot Manipulation**
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
 "Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors" (in press), in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), 2023. [Arxiv Link](https://arxiv.org/abs/2303.05674 )
@@ -37,10 +44,37 @@ languageCode = "ja"
 "Recognition of Heat-Induced Food State Changes by Time-Series Use of Vision-Language Model for Cooking Robot" (in press), in Proceedings of the 18th International Conference on Intellignet Autonomous Systems (IAS2023), 2023. [Paper Link](https://arxiv.org/abs/2309.01528 )
 
 2. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
-"VQA-based Robotic State Recognition Optimized with Genetic Algorithm", in Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA2023), pp. 8306-8311, 2023. [Paper Link](https://arxiv.org/abs/2303.05052 )
+"VQA-based Robotic State Recognition Optimized with Genetic Algorithm", in Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA2023), pp.8306-8311, 2023. [Paper Link](https://arxiv.org/abs/2303.05052 )
 
 3. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba.
-"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (Humanoids2022), pp. 919-924, 2022. [Paper Link](https://doi.org/10.1109/Humanoids53995.2022.10000172 )
+"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (Humanoids2022), pp.919-924, 2022. [Paper Link](https://doi.org/10.1109/Humanoids53995.2022.10000172 )
+
+## International Workshop
+
+1. Open X-Embodiment Collaboration
+"Open X-Embodiment: Robotic Learning Datasets and RT-X Models", Proceedings of the 2023 Neural Information Processing Systems (NeurIPS2023), 2023, (6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models)
+
+1. Open X-Embodiment Collaboration
+"Open X-Embodiment: Robotic Learning Datasets and RT-X Models", Proceedings of the 2023 Conference on Robot Learning (CoRL2023), 2023, (2nd Workshop on Language and Robot Learning: Language as Grounding)
+
+1. Open X-Embodiment Collaboration
+"Open X-Embodiment: Robotic Learning Datasets and RT-X Models", Proceedings of the 2023 Conference on Robot Learning (CoRL2023), 2023, (Towards Generalist Robots: Learning Paradigms for Scalable Skill Acquisition)
+
+
+## arXiv
+1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
+Binary State Recognition by Robots using Visual Question Answering of Pre-Trained Vision-Language Model, arXiv preprint arXiv:2310.16405, 2023. [Arxiv Link](https://arxiv.org/abs/2310.16405 )
+
+1. Y. Obinata, **N. Kanazawa**, K. Kawaharazuka, I. Yanokura, S. Kim, K. Okada, M. Inaba.
+"Foundation Model based Open Vocabulary Task Planning and Executive System for General Purpose Service Robots", arXiv preprint arXiv:2308.03357, 2023. [Arxiv Link](https://arxiv.org/abs/2308.03357 ) [Video](https://www.youtube.com/watch?app=desktop&v=fiN4Zibk6Sg )
+
+## Domestic Journal Papers
+
+1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 岡田 慧, 稲葉 雅幸.
+大規模視覚-言語モデルと遺伝的アルゴリズムに基づくロボットのための状態認識, 日本ロボット学会誌 (JRSJ), vol.42, no.3, pp.259-265, 2024. [Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-04.html )
+
+2. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
+料理レシピ記述解析と視覚 - 言語モデルの時系列利用による食材状態変化認識に基づくロボットの調理作業実行, 日本ロボット学会誌 (JRSJ), vol.42, no.3, pp.266-273, 2024. [Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-05.html )
 
 ## Domestic Conference Proceedings (Peer Reviewed)
 1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 岡田 慧, 稲葉 雅幸.
@@ -53,9 +87,18 @@ languageCode = "ja"
 調理支援ロボットの視覚-言語モデル時系列利用によるレシピ記述からの食材状態変化認識, in 第28回ロボティクスシンポジア予稿集 (ROBOSYM2023), pp. 66-67, 2023. **第13回ロボティクスシンポジア研究奨励賞**.
 
 ## Domestic Conference Proceedings (No Reviewed)
+
+1. 河原塚 健人, **金沢 直晃**, 大日方 慶樹, 岡田 慧.
+大規模視覚-言語モデルによる調理ロボットの時系列食材状態認識, in 第42回日本ロボット学会学術講演会講演論文集 (RSJ24J), 3D2-03, 2024.
+1. 大日方 慶樹, 賈 浩宇, 河原塚 健人, **金沢 直晃**, 岡田 慧.
+あいまいな生活支援ロボット動作記述のVLMとARデバイスを用いた提示と指示による展開, in 第42回日本ロボット学会学術講演会講演論文集 (RSJ24J), 3D3-02, 2024.
+1. 大日方 慶樹, 塚本 直人, 河原塚 健人, **金沢 直晃**, 岡田 慧, 稲葉 雅幸.
+生活支援ロボットの現場知識に基づくオンライン動作プログラム展開, in 第38回人工知能学会全国大会講演論文集 (JSAI24J), 4E1-GS-8-04, 2024.
+1. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
+基盤モデルと古典プランニングを用いたレシピ記述からの実世界調理計画認識実行ロボットシステム, in 言語処理学会第30回年次大会 (NLP24J), E1-3, 2024.
 1. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
 対象物状態中心の調理行動記述に基づくレシピからの卵料理の実世界調理実行ロボットシステム,
-in 第24回SICEシステムインテグレーション部門講演会講演概要集 (SI2023), 3G2-08, 2023.
+in 第24回SICEシステムインテグレーション部門講演会講演概要集 (SI2023), 3G2-08, 2023. **優秀講演賞**
 1. 金 淳暁, **金沢 直晃**, 長谷川 峻, 河原塚 健人, 岡田 慧, 稲葉 雅幸.
 生活支援ロボットを用いた視覚と力覚に基づく頭髪ブラッシング動作生成に関する研究,
 in 第24回SICEシステムインテグレーション部門講演会講演概要集 (SI2023), 3F1-08, 2023.
@@ -64,7 +107,7 @@ in 第24回SICEシステムインテグレーション部門講演会講演概�
 in 第41回日本ロボット学会学術講演会講演論文集 (RSJ2023), 1K3-03, 2023.
 1. 大日方 慶樹, **金沢 直晃**, 河原塚 健人, 矢野倉 伊織, 金 淳暁, 岡田 慧, 稲葉 雅幸.
 大規模言語モデルによるタスク実行管理器生成法とRoboCup JapanOpen @Home League GPSRタスクへの応用,
-in 第41回日本ロボット学会学術講演会講演論文集 (RSJ2023), 1K4-05, 2023.
+in 第41回日本ロボット学会学術講演会講演論文集 (RSJ2023), 1K4-05, 2023. **日本ロボット学会第5回優秀講演賞**
 1. **金沢 直晃**, 河原塚 健人, 石田 寛和, 岡田 慧, 稲葉 雅幸.
 反復自動データ収集を用いた模倣学習による環境設備操作タスクの実現,
 in 日本機械学会ロボティクス・メカトロニクス講演会'23 講演論文集 (ROBOMECH2023), 1P1-D05, 2023.
@@ -103,6 +146,15 @@ in 第39回日本ロボット学会学術講演会講演論文集 (RSJ2021), 2H3
 in 第21回SICEシステムインテグレーション部門講演会講演概要集 (SI2020), 3E2-08, 2020.
 
 ## Awards (Publication)
+1. Open X-Embodiment Collaboration
+**Finalists of Best Paper Award in Robot Manipulation**, Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024.5.16
+
+1. Open X-Embodiment Collaboration
+**Best Conference Paper Award**, Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024.5.16.
+
+1. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
+**優秀講演賞**, 第24回SICEシステムインテグレーション部門講演会講演概要集 (SI23J), 2023.12.16.
+
 1. **金沢 直晃**.
 **第13回ロボティクスシンポジア研究奨励賞**, 第28回ロボティクスシンポジア (ROBOSYM2023), 2023.9.13.
 
