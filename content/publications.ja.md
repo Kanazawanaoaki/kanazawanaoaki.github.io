@@ -8,17 +8,22 @@ languageCode = "ja"
 
 1. **N. Kanazawa**, K. Kawaharazuka, Y. Obinata, K. Okada, M. Inaba.
 "Real-world cooking robot system from recipes based on food state recognition using foundation models and PDDL", Advanced Robotics (AR), pp.1-17, 2024.
+[Paper Link](https://doi.org/10.1080/01691864.2024.2407136 ) [Project Page](https://kanazawanaoaki.github.io/cook-from-recipe-pddl/ ) [Video](https://youtu.be/3bQRTAKV0wM?si=jCCfpHHxBXbrA2-_ )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada, M. Inaba.
 "Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models", Advanced Robotics (AR), pp.1-12, 2024.
+[Paper Link](https://doi.org/10.1080/01691864.2024.2393409 ) [Arxiv Link](https://arxiv.org/abs/2408.11380 ) [Project Page](https://haraduka.github.io/omnidirectional-vlm/ ) [Video](https://youtu.be/T2Uezkpu5u4?si=Jf6yMUZMsdIFU0E8 )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
 "Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization", Advanced Robotics (AR), pp.1-10, 2024.
+[Paper Link](https://doi.org/10.1080/01691864.2024.2366995 ) [Arxiv Link](https://arxiv.org/abs/2409.17519 ) [Project Page](https://haraduka.github.io/vlm-bbo/ ) [Video](https://youtu.be/aOoQcEdVb6M?si=sMOoERErn4VUEE4l )
 
 1. K. Kawaharazuka, **N. Kanazawa**, Y. Obinata, K. Okada, M. Inaba
-"Continuous Object State Recognition for Cooking Robots Using Pre-Trained Vision-Language Models and Black-box Optimization", IEEE Robotics and Automation Letters (RAL), vol.9, no.5, pp.4059-4066, 2024. (presented at Humanoids2024)
+"Continuous Object State Recognition for Cooking Robots Using Pre-Trained Vision-Language Models and Black-box Optimization", IEEE Robotics and Automation Letters (RAL), vol.9, no.5, pp.4059-4066, 2024. (presented at Humanoids2024),
+[Paper Link](https://doi.org/10.1109/LRA.2024.3375257 ) [Arxiv Link](https://arxiv.org/abs/2403.08239 ) [Project Page](https://haraduka.github.io/continuous-state-recognition/ ) [Video](https://www.youtube.com/watch?v=480caUHXrE0 )
 
-1. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba. "Self-Supervised Learning of Visual Servoing for Low-Rigidity Robots Considering Temporal Body Changes", IEEE Robotics and Automation Letters (RAL), vol.7, no.3, pp.7881-7887, 2022. **SICE International Young Authors Award (SIYA-IROS2022)**, (presented at IROS2022), [Paper Link](https://ieeexplore.ieee.org/document/9806167/ )
+1. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba. "Self-Supervised Learning of Visual Servoing for Low-Rigidity Robots Considering Temporal Body Changes", IEEE Robotics and Automation Letters (RAL), vol.7, no.3, pp.7881-7887, 2022. **SICE International Young Authors Award (SIYA-IROS2022)**, (presented at IROS2022),
+[Paper Link](https://ieeexplore.ieee.org/document/9806167/ ) [Arxiv Link](https://arxiv.org/abs/2405.11798 ) [Video](https://www.youtube.com/watch?v=ulWgQTVDGQA )
 
 ## International Conference Proceedings (Peer Reviewed)
 
@@ -29,25 +34,33 @@ languageCode = "ja"
 "Remote Life Support Robot Interface System for Global Task Planning and Local Action Expansion Using Foundation Models", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2024), 2024.
 
 1. Open X-Embodiment Collaboration.
-Open X-Embodiment: Robotic Learning Datasets and RT-X Models, in Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024. **Best Conference Paper Award**, **Finalists of Best Paper Award in Robot Manipulation**
+"Open X-Embodiment: Robotic Learning Datasets and RT-X Models", in Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024. **Best Conference Paper Award**, **Finalists of Best Paper Award in Robot Manipulation**
+[Paper Link](https://doi.org/10.1109/ICRA57147.2024.10611477 ) [Arxiv Link](https://robotics-transformer-x.github.io/paper.pdf ) [Project Page](https://robotics-transformer-x.github.io/ )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
-"Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors" (in press), in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), 2023. [Arxiv Link](https://arxiv.org/abs/2303.05674 )
+"Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors", in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), pp.458-465, 2023.
+[Paper Link](https://doi.org/10.1109/Humanoids57100.2023.10375211 ) [Arxiv Link](https://arxiv.org/abs/2303.05674 )
 
 1. K. Kawaharazuka, **N. Kanazawa**, Y. Obinata, K. Okada, M. Inaba.
-"Daily Assistive View Control Learning of Low-Cost Low-Rigidity Robot via Large-Scale Vision-Language Model" (in press), in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), 2023.
+"Daily Assistive View Control Learning of Low-Cost Low-Rigidity Robot via Large-Scale Vision-Language Model", in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), pp.452-457, 2023.
+[Paper Link](https://doi.org/10.1109/Humanoids57100.2023.10375239 ) [Arxiv Link](https://arxiv.org/abs/2312.07451 )
 
 1. Y. Obinata, K. Kawaharazuka, **N. Kanazawa**, N. Yamaguchi, N. Tsukamoto, I. Yanokura, S. Kitagawa, K. Shinjo, K. Okada, M. Inaba.
-"Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots Using Pre-Trained Large-Scale Vision-Language Model" (in press), in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2023), 2023. **IEEE RAS Japan Joint Chapter Young Award (2023)**, **SICE International Young Authors Award (SIYA-IROS2023)** [Arxiv Link](https://arxiv.org/abs/2309.16552 )
+"Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots Using Pre-Trained Large-Scale Vision-Language Model", in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2023), pp.3228-3233, 2023.
+**IEEE RAS Japan Joint Chapter Young Award (2023)**, **SICE International Young Authors Award (SIYA-IROS2023)**
+[Paper Link](https://doi.org/10.1109/IROS55552.2023.10342467 ) [Arxiv Link](https://arxiv.org/abs/2309.16552 )
 
 1. **N. Kanazawa**, K. Kawaharazuka, Y. Obinata, K. Okada, M. Inaba.
-"Recognition of Heat-Induced Food State Changes by Time-Series Use of Vision-Language Model for Cooking Robot" (in press), in Proceedings of the 18th International Conference on Intellignet Autonomous Systems (IAS2023), 2023. [Paper Link](https://arxiv.org/abs/2309.01528 )
+"Recognition of Heat-Induced Food State Changes by Time-Series Use of Vision-Language Model for Cooking Robot" (in press), in Proceedings of the 18th International Conference on Intellignet Autonomous Systems (IAS2023), 2023.
+[Paper Link](https://doi.org/10.1007/978-3-031-44851-5_42 ) [Arxiv Link](https://arxiv.org/abs/2309.01528 )
 
 2. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
-"VQA-based Robotic State Recognition Optimized with Genetic Algorithm", in Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA2023), pp.8306-8311, 2023. [Paper Link](https://arxiv.org/abs/2303.05052 )
+"VQA-based Robotic State Recognition Optimized with Genetic Algorithm", in Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA2023), pp.8306-8311, 2023.
+[Paper Link](https://doi.org/10.1109/ICRA48891.2023.10160390) [Arxiv Link](https://arxiv.org/abs/2303.05052 )
 
 3. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba.
-"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (Humanoids2022), pp.919-924, 2022. [Paper Link](https://doi.org/10.1109/Humanoids53995.2022.10000172 )
+"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (Humanoids2022), pp.919-924, 2022.
+[Paper Link](https://doi.org/10.1109/Humanoids53995.2022.10000172 ) [Arxiv Link](https://arxiv.org/abs/2403.11198 ) [Video](https://www.youtube.com/watch?v=N47IXZ6Q0io )
 
 ## International Workshop
 
@@ -63,18 +76,22 @@ Open X-Embodiment: Robotic Learning Datasets and RT-X Models, in Proceedings of 
 
 ## arXiv
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
-Binary State Recognition by Robots using Visual Question Answering of Pre-Trained Vision-Language Model, arXiv preprint arXiv:2310.16405, 2023. [Arxiv Link](https://arxiv.org/abs/2310.16405 )
+"Binary State Recognition by Robots using Visual Question Answering of Pre-Trained Vision-Language Model", arXiv preprint arXiv:2310.16405, 2023.
+[Arxiv Link](https://arxiv.org/abs/2310.16405 )
 
 1. Y. Obinata, **N. Kanazawa**, K. Kawaharazuka, I. Yanokura, S. Kim, K. Okada, M. Inaba.
-"Foundation Model based Open Vocabulary Task Planning and Executive System for General Purpose Service Robots", arXiv preprint arXiv:2308.03357, 2023. [Arxiv Link](https://arxiv.org/abs/2308.03357 ) [Video](https://www.youtube.com/watch?app=desktop&v=fiN4Zibk6Sg )
+"Foundation Model based Open Vocabulary Task Planning and Executive System for General Purpose Service Robots", arXiv preprint arXiv:2308.03357, 2023.
+[Arxiv Link](https://arxiv.org/abs/2308.03357 ) [Video](https://www.youtube.com/watch?app=desktop&v=fiN4Zibk6Sg )
 
 ## Domestic Journal Papers
 
 1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 岡田 慧, 稲葉 雅幸.
-大規模視覚-言語モデルと遺伝的アルゴリズムに基づくロボットのための状態認識, 日本ロボット学会誌 (JRSJ), vol.42, no.3, pp.259-265, 2024. [Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-04.html )
+大規模視覚-言語モデルと遺伝的アルゴリズムに基づくロボットのための状態認識, 日本ロボット学会誌 (JRSJ), vol.42, no.3, pp.259-265, 2024.
+[Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-04.html )
 
 2. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
-料理レシピ記述解析と視覚 - 言語モデルの時系列利用による食材状態変化認識に基づくロボットの調理作業実行, 日本ロボット学会誌 (JRSJ), vol.42, no.3, pp.266-273, 2024. [Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-05.html )
+料理レシピ記述解析と視覚 - 言語モデルの時系列利用による食材状態変化認識に基づくロボットの調理作業実行, 日本ロボット学会誌 (JRSJ), vol.42, no.3, pp.266-273, 2024.
+[Paper Link](https://www.rsj.or.jp/pub/jrsj/advpub/231213-05.html )
 
 ## Domestic Conference Proceedings (Peer Reviewed)
 1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 岡田 慧, 稲葉 雅幸.
