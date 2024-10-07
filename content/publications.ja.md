@@ -8,7 +8,7 @@ languageCode = "ja"
 
 1. **N. Kanazawa**, K. Kawaharazuka, Y. Obinata, K. Okada, M. Inaba.
 "Real-world cooking robot system from recipes based on food state recognition using foundation models and PDDL", Advanced Robotics (AR), pp.1-17, 2024.
-[Paper Link](https://doi.org/10.1080/01691864.2024.2407136 ) [Project Page](https://kanazawanaoaki.github.io/cook-from-recipe-pddl/ ) [Video](https://youtu.be/3bQRTAKV0wM?si=jCCfpHHxBXbrA2-_ )
+[Paper Link](https://doi.org/10.1080/01691864.2024.2407136 ) [Arxiv Link](https://arxiv.org/abs/2410.02874 ) [Project Page](https://kanazawanaoaki.github.io/cook-from-recipe-pddl/ ) [Video](https://youtu.be/3bQRTAKV0wM?si=jCCfpHHxBXbrA2-_ )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada, M. Inaba.
 "Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models", Advanced Robotics (AR), pp.1-12, 2024.
