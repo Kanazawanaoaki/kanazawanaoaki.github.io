@@ -27,11 +27,17 @@ languageCode = "ja"
 
 ## International Conference Proceedings (Peer Reviewed)
 
+1. S. Kim, **N. Kanazawa**, S. Hasegawa, K. Kawaharazuka, K. Okada.
+"Front Hair Styling Robot System Using Path Planning for Root-Centric Strand Adjustment", in Proceedings of the 2025 IEEE/SICE International Symposium on System Integration (SII2025), 2025. **Best Student Paper Finalist**
+[Paper Link](https://ieeexplore.ieee.org/document/10871088/ ) [Arxive Link](https://arxiv.org/abs/2501.10991 ) [Video](https://www.youtube.com/watch?v=AUBmOXsnqbg )
+
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
 "Robotic State Recognition with Image-to-Text Retrieval Task of Pre-Trained Vision-Language Model and Black-Box Optimization", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2024), 2024.
+[Paper Link](https://ieeexplore.ieee.org/document/10769848 ) [Arxive Link](https://arxiv.org/abs/2410.22707 )
 
 1. Y. Obinata, H. Jia, K. Kawaharazuka, **N. Kanazawa**, K. Okada
 "Remote Life Support Robot Interface System for Global Task Planning and Local Action Expansion Using Foundation Models", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2024), 2024.
+[Paper Link](https://ieeexplore.ieee.org/document/10769852 ) [Arxive Link](https://arxiv.org/abs/2411.10038 ) [Video](https://youtu.be/bM0w69k0LM8?si=YwbjSqW216hyQoUK )
 
 1. Open X-Embodiment Collaboration.
 "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", in Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024. **Best Conference Paper Award**, **Finalists of Best Paper Award in Robot Manipulation**
@@ -63,6 +69,9 @@ languageCode = "ja"
 [Paper Link](https://doi.org/10.1109/Humanoids53995.2022.10000172 ) [Arxiv Link](https://arxiv.org/abs/2403.11198 ) [Video](https://www.youtube.com/watch?v=N47IXZ6Q0io )
 
 ## International Workshop
+
+1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada.
+"Reflexive Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024, (Workshop on Environment Dynamics Matters: Embodied Navigation to Movable Objects) **Excellent Practice Award**
 
 1. Open X-Embodiment Collaboration
 "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", Proceedings of the 2023 Neural Information Processing Systems (NeurIPS2023), 2023, (6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models)
@@ -105,6 +114,10 @@ languageCode = "ja"
 
 ## Domestic Conference Proceedings (No Reviewed)
 
+1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 塚本 直人, 岡田 慧.
+全天球カメラと事前学習済み視覚-言語モデルによる事前知識を必要としない反射型Open Vocabulary Navigation, in 第25回SICEシステムインテグレーション部門講演会 (SI24J), 1F6-04, 2024, **優秀講演賞**
+1. 河原塚 健人, **金沢 直晃**, 大日方 慶樹, 岡田 慧.
+大規模視覚-言語モデルによる調理ロボットの時系列食材状態認識, in 第42回日本ロボット学会学術講演会 (RSJ24J), 3D2-03, 2024.
 1. 河原塚 健人, **金沢 直晃**, 大日方 慶樹, 岡田 慧.
 大規模視覚-言語モデルによる調理ロボットの時系列食材状態認識, in 第42回日本ロボット学会学術講演会講演論文集 (RSJ24J), 3D2-03, 2024.
 1. 大日方 慶樹, 賈 浩宇, 河原塚 健人, **金沢 直晃**, 岡田 慧.
@@ -163,8 +176,18 @@ in 第39回日本ロボット学会学術講演会講演論文集 (RSJ2021), 2H3
 in 第21回SICEシステムインテグレーション部門講演会講演概要集 (SI2020), 3E2-08, 2020.
 
 ## Awards (Publication)
+
+1. S. Kim, **N. Kanazawa**, S. Hasegawa, K. Kawaharazuka, K. Okada.
+**Best Student Paper Finalist**, 2025 IEEE/SICE International Symposium on System Integration (SII2025), 2025.1.24.
+
+1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 塚本 直人, 岡田 慧.
+**優秀講演賞**, 第25回SICEシステムインテグレーション部門講演会 (SI24J), 2024.12.20.
+
+1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada.
+**Excellent Practice Award**, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), (Workshop on Environment Dynamics Matters: Embodied Navigation to Movable Objects), 2024.10.14.
+
 1. Open X-Embodiment Collaboration
-**Finalists of Best Paper Award in Robot Manipulation**, Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024.5.16
+**Finalists of Best Paper Award in Robot Manipulation**, Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024.5.16.
 
 1. Open X-Embodiment Collaboration
 **Best Conference Paper Award**, Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024.5.16.
