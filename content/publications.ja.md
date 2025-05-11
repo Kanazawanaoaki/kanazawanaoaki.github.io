@@ -6,19 +6,23 @@ languageCode = "ja"
 
 ## International Journal Papers
 
+1. Y. Obinata, K. Kawaharazuka, **N. Kanazawa**, N. Yamaguchi, N. Tsukamoto, I. Yanokura, S. Kitagawa, K. Okada, M. Inaba.
+"Situation classification of living environment by daily life support robot using pre-trained large-scale vision-language model", Advanced Robotics (AR), vol.39, no.7, pp.323-337, 2025.
+[Paper Link](https://doi.org/10.1080/01691864.2025.2487608 )
+
 1. **N. Kanazawa**, K. Kawaharazuka, Y. Obinata, K. Okada, M. Inaba.
-"Real-world cooking robot system from recipes based on food state recognition using foundation models and PDDL", Advanced Robotics (AR), pp.1-17, 2024.
+"Real-world cooking robot system from recipes based on food state recognition using foundation models and PDDL", Advanced Robotics (AR), vol.38, no.18, pp.1318-1334, 2024.
 [Paper Link](https://doi.org/10.1080/01691864.2024.2407136 ) [Arxiv Link](https://arxiv.org/abs/2410.02874 ) [Project Page](https://kanazawanaoaki.github.io/cook-from-recipe-pddl/ ) [Video](https://youtu.be/3bQRTAKV0wM?si=jCCfpHHxBXbrA2-_ )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada, M. Inaba.
-"Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models", Advanced Robotics (AR), pp.1-12, 2024.
+"Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models", Advanced Robotics (AR), vol.38, no.18, pp.1307-1317, 2024.
 [Paper Link](https://doi.org/10.1080/01691864.2024.2393409 ) [Arxiv Link](https://arxiv.org/abs/2408.11380 ) [Project Page](https://haraduka.github.io/omnidirectional-vlm/ ) [Video](https://youtu.be/T2Uezkpu5u4?si=Jf6yMUZMsdIFU0E8 )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
-"Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization", Advanced Robotics (AR), pp.1-10, 2024.
+"Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization", Advanced Robotics (AR), vol.38, no.18, pp.1255-1264, 2024.
 [Paper Link](https://doi.org/10.1080/01691864.2024.2366995 ) [Arxiv Link](https://arxiv.org/abs/2409.17519 ) [Project Page](https://haraduka.github.io/vlm-bbo/ ) [Video](https://youtu.be/aOoQcEdVb6M?si=sMOoERErn4VUEE4l )
 
-1. K. Kawaharazuka, **N. Kanazawa**, Y. Obinata, K. Okada, M. Inaba
+1. K. Kawaharazuka, **N. Kanazawa**, Y. Obinata, K. Okada, M. Inaba.
 "Continuous Object State Recognition for Cooking Robots Using Pre-Trained Vision-Language Models and Black-box Optimization", IEEE Robotics and Automation Letters (RAL), vol.9, no.5, pp.4059-4066, 2024. (presented at Humanoids2024),
 [Paper Link](https://doi.org/10.1109/LRA.2024.3375257 ) [Arxiv Link](https://arxiv.org/abs/2403.08239 ) [Project Page](https://haraduka.github.io/continuous-state-recognition/ ) [Video](https://www.youtube.com/watch?v=480caUHXrE0 )
 
@@ -65,7 +69,7 @@ languageCode = "ja"
 [Paper Link](https://doi.org/10.1109/ICRA48891.2023.10160390) [Arxiv Link](https://arxiv.org/abs/2303.05052 )
 
 3. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba.
-"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (Humanoids2022), pp.919-924, 2022.
+"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2022), pp.919-924, 2022.
 [Paper Link](https://doi.org/10.1109/Humanoids53995.2022.10000172 ) [Arxiv Link](https://arxiv.org/abs/2403.11198 ) [Video](https://www.youtube.com/watch?v=N47IXZ6Q0io )
 
 ## International Workshop
@@ -73,13 +77,13 @@ languageCode = "ja"
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada.
 "Reflexive Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), 2024, (Workshop on Environment Dynamics Matters: Embodied Navigation to Movable Objects) **Excellent Practice Award**
 
-1. Open X-Embodiment Collaboration
+1. Open X-Embodiment Collaboration.
 "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", Proceedings of the 2023 Neural Information Processing Systems (NeurIPS2023), 2023, (6th Robot Learning Workshop: Pretraining, Fine-Tuning, and Generalization with Large Scale Models)
 
-1. Open X-Embodiment Collaboration
+1. Open X-Embodiment Collaboration.
 "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", Proceedings of the 2023 Conference on Robot Learning (CoRL2023), 2023, (2nd Workshop on Language and Robot Learning: Language as Grounding)
 
-1. Open X-Embodiment Collaboration
+1. Open X-Embodiment Collaboration.
 "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", Proceedings of the 2023 Conference on Robot Learning (CoRL2023), 2023, (Towards Generalist Robots: Learning Paradigms for Scalable Skill Acquisition)
 
 
@@ -179,7 +183,7 @@ in 第21回SICEシステムインテグレーション部門講演会講演概�
 **Best Student Paper Finalist**, 2025 IEEE/SICE International Symposium on System Integration (SII2025), 2025.1.24.
 
 1. 河原塚 健人, 大日方 慶樹, **金沢 直晃**, 塚本 直人, 岡田 慧.
-**優秀講演賞**, 第25回SICEシステムインテグレーション部門講演会 (SI24J), 2024.12.20.
+**優秀講演賞**, 第25回SICEシステムインテグレーション部門講演会 (SI2024), 2024.12.20.
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, N. Tsukamoto, K. Okada.
 **Excellent Practice Award**, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024), (Workshop on Environment Dynamics Matters: Embodied Navigation to Movable Objects), 2024.10.14.
@@ -191,7 +195,7 @@ in 第21回SICEシステムインテグレーション部門講演会講演概�
 **Best Conference Paper Award**, Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA2024), 2024.5.16.
 
 1. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
-**優秀講演賞**, 第24回SICEシステムインテグレーション部門講演会講演概要集 (SI23J), 2023.12.16.
+**優秀講演賞**, 第24回SICEシステムインテグレーション部門講演会講演概要集 (SI2023), 2023.12.16.
 
 1. **金沢 直晃**.
 **第13回ロボティクスシンポジア研究奨励賞**, 第28回ロボティクスシンポジア (ROBOSYM2023), 2023.9.13.
