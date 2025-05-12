@@ -36,11 +36,11 @@ languageCode = "ja"
 [Paper Link](https://ieeexplore.ieee.org/document/10871088/ ) [Arxive Link](https://arxiv.org/abs/2501.10991 ) [Video](https://www.youtube.com/watch?v=AUBmOXsnqbg )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
-"Robotic State Recognition with Image-to-Text Retrieval Task of Pre-Trained Vision-Language Model and Black-Box Optimization", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2024), 2024.
+"Robotic State Recognition with Image-to-Text Retrieval Task of Pre-Trained Vision-Language Model and Black-Box Optimization", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (Humanoids2024), 2024.
 [Paper Link](https://ieeexplore.ieee.org/document/10769848 ) [Arxive Link](https://arxiv.org/abs/2410.22707 )
 
 1. Y. Obinata, H. Jia, K. Kawaharazuka, **N. Kanazawa**, K. Okada
-"Remote Life Support Robot Interface System for Global Task Planning and Local Action Expansion Using Foundation Models", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2024), 2024.
+"Remote Life Support Robot Interface System for Global Task Planning and Local Action Expansion Using Foundation Models", in Proceedings of the 2024 IEEE-RAS International Conference on Humanoid Robots (Humanoids2024), 2024.
 [Paper Link](https://ieeexplore.ieee.org/document/10769852 ) [Arxive Link](https://arxiv.org/abs/2411.10038 ) [Video](https://youtu.be/bM0w69k0LM8?si=YwbjSqW216hyQoUK )
 
 1. Open X-Embodiment Collaboration.
@@ -48,11 +48,11 @@ languageCode = "ja"
 [Paper Link](https://doi.org/10.1109/ICRA57147.2024.10611477 ) [Arxiv Link](https://robotics-transformer-x.github.io/paper.pdf ) [Project Page](https://robotics-transformer-x.github.io/ )
 
 1. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
-"Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors", in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), pp.458-465, 2023.
+"Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors", in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (Humanoids2023), pp.458-465, 2023.
 [Paper Link](https://doi.org/10.1109/Humanoids57100.2023.10375211 ) [Arxiv Link](https://arxiv.org/abs/2303.05674 )
 
 1. K. Kawaharazuka, **N. Kanazawa**, Y. Obinata, K. Okada, M. Inaba.
-"Daily Assistive View Control Learning of Low-Cost Low-Rigidity Robot via Large-Scale Vision-Language Model", in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2023), pp.452-457, 2023.
+"Daily Assistive View Control Learning of Low-Cost Low-Rigidity Robot via Large-Scale Vision-Language Model", in Proceedings of the 2023 IEEE-RAS International Conference on Humanoid Robots (Humanoids2023), pp.452-457, 2023.
 [Paper Link](https://doi.org/10.1109/Humanoids57100.2023.10375239 ) [Arxiv Link](https://arxiv.org/abs/2312.07451 )
 
 1. Y. Obinata, K. Kawaharazuka, **N. Kanazawa**, N. Yamaguchi, N. Tsukamoto, I. Yanokura, S. Kitagawa, K. Shinjo, K. Okada, M. Inaba.
@@ -61,7 +61,7 @@ languageCode = "ja"
 [Paper Link](https://doi.org/10.1109/IROS55552.2023.10342467 ) [Arxiv Link](https://arxiv.org/abs/2309.16552 )
 
 1. **N. Kanazawa**, K. Kawaharazuka, Y. Obinata, K. Okada, M. Inaba.
-"Recognition of Heat-Induced Food State Changes by Time-Series Use of Vision-Language Model for Cooking Robot" (in press), in Proceedings of the 18th International Conference on Intellignet Autonomous Systems (IAS2023), 2023.
+"Recognition of Heat-Induced Food State Changes by Time-Series Use of Vision-Language Model for Cooking Robot", in Proceedings of the 18th International Conference on Intellignet Autonomous Systems (IAS2023), pp.547-560, 2023.
 [Paper Link](https://doi.org/10.1007/978-3-031-44851-5_42 ) [Arxiv Link](https://arxiv.org/abs/2309.01528 )
 
 2. K. Kawaharazuka, Y. Obinata, **N. Kanazawa**, K. Okada, M. Inaba.
@@ -69,7 +69,7 @@ languageCode = "ja"
 [Paper Link](https://doi.org/10.1109/ICRA48891.2023.10160390) [Arxiv Link](https://arxiv.org/abs/2303.05052 )
 
 3. K. Kawaharazuka, **N. Kanazawa**, K. Okada, M. Inaba.
-"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2022), pp.919-924, 2022.
+"Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions", in Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots (Humanoids2022), pp.919-924, 2022.
 [Paper Link](https://doi.org/10.1109/Humanoids53995.2022.10000172 ) [Arxiv Link](https://arxiv.org/abs/2403.11198 ) [Video](https://www.youtube.com/watch?v=N47IXZ6Q0io )
 
 ## International Workshop
