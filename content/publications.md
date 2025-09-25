@@ -179,6 +179,9 @@ in 第21回SICEシステムインテグレーション部門講演会講演概�
 
 ## Awards (Publication)
 
+1. **金沢 直晃**, 河原塚 健人, 大日方 慶樹, 岡田 慧, 稲葉 雅幸.
+**日本ロボット学会第39回学会誌論文賞**, 2025.9.4.
+
 1. S. Kim, **N. Kanazawa**, S. Hasegawa, K. Kawaharazuka, K. Okada.
 **Best Student Paper Finalist**, 2025 IEEE/SICE International Symposium on System Integration (SII2025), 2025.1.24.
 
